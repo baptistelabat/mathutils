@@ -35,5 +35,6 @@
 #include "Spline.h"
 #include "StdVector.h"
 #include "Convolution.h"
+#include "Geometry.h"
 
 #endif //FRYDOM_MATHUTILS_H_H

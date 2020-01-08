@@ -16,7 +16,8 @@ set(TESTS
         test_convolution
         test_spline
         test_vectorN
-        )
+		test_geometry        
+		)
 
 IF(MSVC)
     ADD_DEFINITIONS("/MP")

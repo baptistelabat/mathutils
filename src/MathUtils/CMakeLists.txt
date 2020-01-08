@@ -23,6 +23,7 @@ set(MATHUTILS_HEADERS
         Functions.h
         Convolution.h
         VectorN.h
+		Geometry.h
         )
 
 
